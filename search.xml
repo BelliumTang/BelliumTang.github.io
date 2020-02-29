@@ -4,13 +4,40 @@
   
     
     <entry>
+      <title>Leetcode</title>
+      <link href="/2020/02/29/Leetcode/"/>
+      <url>/2020/02/29/Leetcode/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello,Hexo! Windows平台下搭建自己的个人博客</title>
       <link href="/2020/02/28/Hello-Hexo-Windows%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
       <url>/2020/02/28/Hello-Hexo-Windows%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h2 id="1-0"><a href="#1-0" class="headerlink" title="1.0"></a>1.0</h2><hr><h2 id="2-0"><a href="#2-0" class="headerlink" title="2.0"></a>2.0</h2><hr><h2 id="3-0"><a href="#3-0" class="headerlink" title="3.0"></a>3.0</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="Motivation"><a href="#Motivation" class="headerlink" title="Motivation"></a>Motivation</h1><hr><p>刚进大学就看到很多程序员总结作为技术人应该写技术博客，写博客的诸多益处就不赘述了。</p><p>去年(2019年)的某一天，在B站推送里看到了B站UP主<em>CodeSheep<em>的视频更加有了想做博客的冲动，奈何学业繁忙，计划这个寒假做博客的，由于沉迷逛B站看剧<del>无法自拔</del>，一直拖到现在╮(╯▽╰)╭，现在能把博客做起来还是挺开心的o(</em>￣▽￣</em>)ブ</p><hr><h1 id="OverView"><a href="#OverView" class="headerlink" title="OverView"></a>OverView</h1><hr><p>搭建博客时间：2020.2.28 - 2020.2.29</p><p>模板：<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a></p><p>主题：<a href="https://jerryc.me/posts/21cfbf15/" target="_blank" rel="noopener">Butterfly</a></p><p>首先参考了<em>CodeSheep</em>的B站视频，但是由于这个视频是使用MACBook开发的，也就是macOS系统，和在Windows下开发还是有点区别，我跟着做的时候踩了很多坑。后面又找了CSDN上的一篇在windows下搭建博客的文章做参考，主题是在<em>知乎</em>上找的。<br>搭建Hexo花了一天，配主题花了一天。期间遇到的问题也搜集了很多博客，这里向我参考过的所有资料以及视频致谢！</p><p>最后贴上相关链接<br><a href="https://www.bilibili.com/video/av44544186?from=search&seid=17806130726575110106" target="_blank" rel="noopener">CodeSheep_Bilibili视频</a><br><a href="https://blog.csdn.net/qq_36759224/article/details/82121420?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task" target="_blank" rel="noopener">使用 Github Pages 和 Hexo 搭建自己的独立博客_CSDN</a></p><hr><h2 id="Process"><a href="#Process" class="headerlink" title="Process"></a>Process</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 经验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Windows </tag>
+            
+        </tags>
       
     </entry>
     
